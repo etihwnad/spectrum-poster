@@ -10,13 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="6321.0679mm"
-   height="149.64803mm"
-   viewBox="0 0 22397.486 530.2489"
+   width="163in"
+   height="4in"
+   viewBox="0 0 14670.001 360.00002"
    id="svg21730"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="spectrum-long_NTIA-2016.svg">
+  <title
+     id="title33236">Horizontal Spectrum Allocations</title>
   <defs
      id="defs21732">
     <clipPath
@@ -35,11 +37,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45159947"
-     inkscape:cx="21451.511"
-     inkscape:cy="188.33034"
+     inkscape:zoom="1.1244717"
+     inkscape:cx="296.12117"
+     inkscape:cy="91.553093"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="996"
@@ -50,7 +52,8 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:snap-text-baseline="true" />
+     inkscape:snap-text-baseline="true"
+     units="in" />
   <metadata
      id="metadata21735">
     <rdf:RDF>
@@ -59,8 +62,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Horizontal Spectrum Allocations</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dan White &lt;dan@whiteaudio.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -68,185 +93,186 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(2304.2303,-336.52732)">
+     transform="translate(2304.2303,-524.84112)">
     <path
-       d="m -1843.7204,674.51256 63.2486,0 0,-18.74464 -63.2486,0 0,18.74464 z"
+       d="m -2011.8519,744.92278 41.4072,0 0,-12.27162 -41.4072,0 0,12.27162 z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path1738"
        inkscape:connector-curvature="0" />
     <path
-       d="m 804.48066,675.42113 78.98432,0 0,-18.74464 -78.98432,0 0,18.74464 z"
+       d="m -278.1448,745.5176 51.7089,0 0,-12.27162 -51.7089,0 0,12.27162 z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path1834"
        inkscape:connector-curvature="0" />
     <text
-       y="719.09906"
-       x="1512.4268"
-       transform="scale(1.0763675,0.92905075)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.71294403px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="797.27759"
+       x="242.42989"
+       transform="scale(1.0763675,0.92905072)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.28684807px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text2466">
       <tspan
-         x="1512.4268 1523.7715 1531.6279 1540.3644 1545.5968 1555.1975 1562.174 1570.9104 1577.887 1584.8634 1592.72 1597.0881 1600.7321 1610.0465 1617.0232 1624.8796 1632.7361 1639.7126 1644.0808 1651.0574 1658.0339 1664.1462 1668.0745 1674.1869 1682.9232 1688.1556 1696.0121 1702.9886 1716.0775 1723.934 1729.1664 1733.5347 1741.3911 1750.1274 1754.0558 1762.7921 1768.0245 1775.881 1781.1134 1785.4816 1793.3381 1802.0745 1808.1869 1812.1151 1817.3475 1827.828 1833.9403 1842.6768 1847.9092 1851.8374 1855.7656 1863.6221 1867.5503 1880.6393 1888.4956 1897.2321 1901.6003 1905.9685 1912.9451 1916.8733 1922.9856 1929.9622 1936.9387 1944.7952 1949.1635 1956.1399 1963.1165 1967.0447 1970.9729 1978.8295 1985.5199 1992.4965 1996.4248 2004.2812 2013.0176 2018.2501 2026.9865 2034.8429 2041.8196 2046.1876 2053.1641 2060.1406 2068.8772 2072.8054 2077.1736 2085.9099 2089.8381 2095.0706 2103.8071 2110.7837 2114.7119 2122.5681 2130.4248 2138.2812 2143.5137 2151.3701 2159.2266 2167.083 2174.9395 2178.8679 2187.6042 2199.8289 2206.8054 2210.7336 2219.47 2227.3264 2236.063 2244.7993 2248.7275 2256.584 2266.1846 2273.1611 2281.8975 2288.874 2295.8506 2303.707 2308.0754 2311.719 2322.1997 2328.312 2337.0483 2340.9766 2348.833 2357.5693 2364.5461 2371.5227 2379.3792 2384.6113 2391.5881 2397.7002 2401.6287 2409.4851 2414.7175 2418.6458 2426.5022 2434.3586 2442.2151 2450.0715 2454 2462.7363 2474.9609 2481.9375"
-         y="719.09906"
+         x="242.42989 249.85713 255.0002 260.71994 264.14523 270.43088 274.99826 280.7175 285.28488 289.85226 294.99582 297.85568 300.24094 306.33908 310.90646 316.05002 321.19308 325.76047 328.62033 333.18771 337.7551 341.75656 344.32834 348.3298 354.04953 357.47482 362.61838 367.18576 375.75461 380.89816 384.32346 387.18332 392.32687 398.04611 400.61789 406.33762 409.76291 414.90646 418.33176 421.19162 426.33517 432.05441 436.05637 438.62814 442.05344 448.91476 452.91623 458.63596 462.06125 464.63303 467.2048 472.34836 474.91965 483.48898 488.63205 494.35178 497.21164 500.0715 504.63889 507.21017 511.21213 515.77948 520.34637 525.48993 528.34979 532.91718 537.48456 540.05634 542.62811 547.77118 552.15155 556.71893 559.29071 564.43378 570.1535 573.57928 579.29852 584.44208 589.00946 591.86884 596.43622 601.0036 606.72333 609.2951 612.15448 617.87421 620.44598 623.87128 629.591 634.15839 636.73016 641.87323 647.01678 652.16034 655.58563 660.72919 665.87274 671.01581 676.15936 678.73114 684.45087 692.4538 697.02118 699.59296 705.31219 710.45575 716.17548 721.89471 724.46649 729.61005 735.8952 740.46259 746.18182 750.74921 755.31659 760.46014 763.32001 765.70526 772.56708 776.56854 782.28778 784.85956 790.00262 795.72235 800.28973 804.85712 810.00067 813.42596 817.99335 821.99481 824.56659 829.71014 833.13593 835.70721 840.85077 845.99432 851.13739 856.28094 858.85321 864.57245 872.57538 877.14276"
+         y="797.27759"
          sodipodi:role="line"
          id="tspan2468">Non-Federal Travelers Information Stations (TIS), a mobile service, are authorized in the 535-1705 kHz band. Federal TIS operates at 1610 kHz.</tspan>
     </text>
     <path
-       d="m 882.01332,681.918 86.73044,0 0,-18.86146 -86.73044,0 0,18.86146 z"
+       d="m -227.3863,749.77093 56.7802,0 0,-12.3481 -56.7802,0 0,12.3481 z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path2482"
        inkscape:connector-curvature="0" />
     <path
-       d="m 3562.1072,676.97065 63.8082,0 0,-18.75891 -63.8082,0 0,18.75891 z"
+       d="m 1527.2002,746.53203 41.7736,0 0,-12.28097 -41.7736,0 0,12.28097 z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path2488"
        inkscape:connector-curvature="0" />
     <text
-       y="682.35223"
-       x="4481.8638"
-       transform="scale(1.0162109,0.98404773)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.13881111px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="754.97253"
+       x="2142.1792"
+       transform="scale(1.0162109,0.98404771)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.18434715px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17818">
       <tspan
-         x="4481.8638 4489.6978 4500.895 4519.9062 4524.9409 4531.647 4536.6816 4546.751 4551.7856 4561.8555 4571.9248"
-         y="682.35223"
+         x="2142.1792 2147.3081 2154.6382 2167.0845 2170.3804 2174.771 2178.0669 2184.6587 2187.9556 2194.5474 2201.1392"
+         y="754.97253"
          sodipodi:role="line"
          id="tspan17820">ISM - 6.78</tspan>
     </text>
     <text
-       y="444.00784"
-       x="7033.8877"
-       transform="scale(0.66125018,1.5122869)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.10435963px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="491.26196"
+       x="3387.7852"
+       transform="scale(0.66125019,1.5122869)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.57907677px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17822">
       <tspan
-         x="7033.8877 7041.0815 7044.3579 7047.6338 7054.186 7060.7378 7067.2905 7070.5664 7082.937 7093.1323"
-         y="444.00784"
+         x="3387.7852 3392.4951 3394.6396 3396.7852 3401.0742 3405.3633 3409.6533 3411.7979 3419.8965 3426.5713"
+         y="491.26196"
          sodipodi:role="line"
          id="tspan17824">± .015 MHz</tspan>
     </text>
     <text
-       y="688.16693"
-       x="5197.2173"
-       transform="scale(1.025787,0.97486129)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.42003632px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="761.68408"
+       x="2617.8958"
+       transform="scale(1.025787,0.97486126)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.71378422px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17826">
       <tspan
-         x="5197.2173 5204.7715 5215.5688 5233.9014 5238.7568 5245.2236 5250.0786 5259.7886 5269.499 5274.3535 5284.0635 5293.7739 5303.4839"
-         y="688.16693"
+         x="2617.8958 2622.8411 2629.9094 2641.9114 2645.0901 2649.3245 2652.5022 2658.8596 2665.2161 2668.3948 2674.7512 2681.1086 2687.4661"
+         y="761.68408"
          sodipodi:role="line"
          id="tspan17828">ISM - 13.560</tspan>
     </text>
     <text
-       y="447.7915"
-       x="8157.873"
+       y="495.62918"
+       x="4134.9907"
        transform="scale(0.66748135,1.4981692)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.63665199px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.27288151px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17830">
       <tspan
-         x="8157.873 8164.811 8167.9697 8171.1289 8177.4473 8183.7656 8190.0835 8193.2432 8205.1719 8215.0039"
-         y="447.7915"
+         x="4134.9907 4139.5337 4141.6011 4143.6694 4147.8062 4151.9419 4156.0796 4158.147 4165.9565 4172.3931"
+         y="495.62918"
          sodipodi:role="line"
          id="tspan17832">± .007 MHz</tspan>
     </text>
     <text
-       y="739.44348"
-       x="5548.0005"
+       y="819.41986"
+       x="2904.0879"
        transform="scale(1.1054552,0.90460472)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75127983px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.27596664px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17834">
       <tspan
-         x="5548.0005 5555.2944 5565.7202 5583.4214 5588.1094 5594.3535 5599.0415 5608.417 5617.793 5622.4805 5631.856 5641.2314"
-         y="739.44348"
+         x="2904.0879 2908.8623 2915.6885 2927.2764 2930.3457 2934.4336 2937.5029 2943.6406 2949.7793 2952.8477 2958.9854 2965.123"
+         y="819.41986"
          sodipodi:role="line"
          id="tspan17836">ISM - 27.12</tspan>
     </text>
     <text
-       y="481.1572"
-       x="8676.668"
+       y="533.19794"
+       x="4561.5288"
        transform="scale(0.71932164,1.3901987)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.2014904px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.98799229px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17838">
       <tspan
-         x="8676.668 8683.3672 8686.417 8689.4678 8695.5684 8701.6689 8707.7695 8710.8203 8722.3389 8731.8301"
-         y="481.1572"
+         x="4561.5288 4565.9155 4567.9116 4569.9097 4573.9028 4577.897 4581.8901 4583.8882 4591.4292 4597.6421"
+         y="533.19794"
          sodipodi:role="line"
          id="tspan17840">± .163 MHz</tspan>
     </text>
     <text
-       y="741.30286"
-       x="6156.1719"
-       transform="scale(1.099105,0.90983121)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.77647972px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="818.71094"
+       x="3298.0356"
+       transform="scale(1.099105,0.90983119)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.94713688px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17842">
       <tspan
-         x="6156.1719 6163.8652 6174.8608 6193.5303 6198.4736 6205.0596 6210.0034 6219.8916 6229.7798 6234.7241 6244.6123 6254.501"
-         y="741.30286"
+         x="3298.0356 3303.0718 3310.27 3322.4927 3325.729 3330.0405 3333.2769 3339.7505 3346.2241 3349.4614 3355.9351 3362.4087"
+         y="818.71094"
          sodipodi:role="line"
          id="tspan17844">ISM - 40.68</tspan>
     </text>
     <text
-       y="482.36472"
-       x="9619.5801"
+       y="532.73407"
+       x="5172.3589"
        transform="scale(0.71518609,1.3982375)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.86852932px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.42468548px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17846">
       <tspan
-         x="9619.5801 9626.6455 9629.8633 9633.0791 9639.5137 9645.9482 9649.166 9661.3135 9671.3252"
-         y="482.36472"
+         x="5172.3589 5176.9839 5179.0913 5181.1968 5185.4097 5189.6216 5191.728 5199.6802 5206.2349"
+         y="532.73407"
          sodipodi:role="line"
          id="tspan17848">± .02 MHz</tspan>
     </text>
     <text
-       y="909.68335"
-       x="7507.3467"
+       y="1012.7184"
+       x="4329.6572"
        transform="scale(1.3752772,0.72712613)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11655903px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.24173641px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17856">
       <tspan
-         x="7507.3467 7512.8374 7520.6865 7534.0127 7537.5415 7542.2422 7545.772 7552.8301 7559.8882 7566.9463 7570.4756"
-         y="909.68335"
+         x="4329.6572 4333.252 4338.3906 4347.1143 4349.4248 4352.502 4354.8135 4359.4336 4364.0547 4368.6758 4370.9863"
+         y="1012.7184"
          sodipodi:role="line"
          id="tspan17858">ISM - 915.0</tspan>
     </text>
     <text
-       y="591.93256"
-       x="11645.177"
-       transform="scale(0.89489525,1.1174492)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.1856699px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="658.9776"
+       x="6724.4458"
+       transform="scale(0.89489526,1.1174492)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.01361465px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17860">
       <tspan
-         x="11645.177 11650.22 11652.516 11654.812 11659.405 11663.998 11666.294 11674.966 11682.111"
-         y="591.93256"
+         x="6724.4458 6727.7476 6729.2505 6730.7544 6733.7612 6736.7681 6738.271 6743.9487 6748.6265"
+         y="658.9776"
          sodipodi:role="line"
          id="tspan17862">± .13 MHz</tspan>
     </text>
     <text
-       y="917.73236"
-       x="8452.6797"
+       y="1017.988"
+       x="4948.542"
        transform="scale(1.3752772,0.72712613)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11655903px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.24173641px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17872">
       <tspan
-         x="8452.6797 8458.1709 8466.0195 8479.3457 8482.875 8487.5752 8491.1045 8498.1631 8505.2217 8512.2793 8519.3379 8522.8672"
-         y="917.73236"
+         x="4948.542 4952.1367 4957.2744 4965.999 4968.3096 4971.3867 4973.6973 4978.3184 4982.9395 4987.5596 4992.1807 4994.4912"
+         y="1017.988"
          sodipodi:role="line"
          id="tspan17874">ISM - 2450.0</tspan>
     </text>
     <text
-       y="597.1701"
-       x="13108.814"
-       transform="scale(0.89489525,1.1174492)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.1856699px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="662.40649"
+       x="7682.6509"
+       transform="scale(0.89489526,1.1174492)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.01361465px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17876">
       <tspan
-         x="13108.814 13113.857 13116.153 13118.449 13123.043 13127.636 13129.933 13138.604 13145.75"
-         y="597.1701"
+         x="7682.6509 7685.9526 7687.4556 7688.9585 7691.9663 7694.9731 7696.4771 7702.1528 7706.8315"
+         y="662.40649"
          sodipodi:role="line"
          id="tspan17878">± .50 MHz</tspan>
     </text>
     <g
-       id="g21247">
+       id="g21247"
+       transform="matrix(0.65467355,0,0,0.65467355,-804.817,303.33728)">
       <text
          id="text1754"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.50090981px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -6593,7 +6619,8 @@
       </text>
     </g>
     <g
-       id="g21228">
+       id="g21228"
+       transform="matrix(0.65467355,0,0,0.65467355,-804.817,303.33728)">
       <text
          id="text1740"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.00175667px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -6697,79 +6724,80 @@
       </text>
     </g>
     <text
-       y="928.3028"
-       x="11937.46"
-       transform="scale(1.3746116,0.72747824)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.77611446px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="1024.7062"
+       x="7229.6519"
+       transform="scale(1.3746116,0.72747823)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.018857px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17884">
       <tspan
-         x="11937.46 11942.819 11950.479 11963.483 11966.928 11971.515 11974.959 11981.847 11988.735 11995.623 11999.067"
-         y="928.3028"
+         x="7229.6519 7233.1606 7238.1743 7246.689 7248.9438 7251.9468 7254.2017 7258.7104 7263.2202 7267.73 7269.9849"
+         y="1024.7062"
          sodipodi:role="line"
          id="tspan17886">ISM - 122.5</tspan>
     </text>
     <text
-       y="604.04828"
-       x="18450.783"
-       transform="scale(0.89446213,1.1179903)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.96414089px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="666.77808"
+       x="11179.461"
+       transform="scale(0.89446214,1.1179903)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.86858559px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17888">
       <tspan
-         x="18450.783 18455.705 18457.945 18462.428 18464.67 18469.152 18473.635 18478.117 18480.357 18487.332 18494.305"
-         y="604.04828"
+         x="11179.461 11182.684 11184.15 11187.084 11188.553 11191.486 11194.422 11197.355 11198.822 11203.389 11207.953"
+         y="666.77808"
          sodipodi:role="line"
          id="tspan17890">± 0.500 GHz</tspan>
     </text>
     <text
-       y="922.28357"
-       x="11348.662"
-       transform="scale(1.3746116,0.72747824)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.77611446px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="1020.7656"
+       x="6844.1821"
+       transform="scale(1.3746116,0.72747823)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.018857px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17924">
       <tspan
-         x="11348.662 11354.022 11361.682 11374.686 11378.129 11382.717 11386.161 11393.049 11399.938 11403.381 11410.27"
-         y="922.28357"
+         x="6844.1821 6847.6909 6852.7056 6861.2183 6863.4722 6866.4761 6868.731 6873.2407 6877.7515 6880.0044 6884.5142"
+         y="1020.7656"
          sodipodi:role="line"
          id="tspan17926">ISM - 61.25</tspan>
     </text>
     <text
-       y="600.13147"
-       x="17545.92"
-       transform="scale(0.89446213,1.1179903)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.96414089px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="664.21387"
+       x="10587.072"
+       transform="scale(0.89446214,1.1179903)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.86858559px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17928">
       <tspan
-         x="17545.92 17550.84 17553.08 17557.562 17559.805 17564.287 17568.768 17571.01 17577.982 17584.957"
-         y="600.13147"
+         x="10587.072 10590.293 10591.76 10594.693 10596.162 10599.096 10602.029 10603.496 10608.061 10612.629"
+         y="664.21387"
          sodipodi:role="line"
          id="tspan17930">± 0.25 GHz</tspan>
     </text>
     <text
-       y="930.35852"
-       x="12510.341"
-       transform="scale(1.3746116,0.72747824)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.77611446px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="1026.052"
+       x="7604.7017"
+       transform="scale(1.3746116,0.72747823)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.018857px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17932">
       <tspan
-         x="12510.341 12515.699 12523.358 12536.364 12539.808 12544.396 12547.84 12554.728 12561.615 12568.505 12571.948"
-         y="930.35852"
+         x="7604.7017 7608.2095 7613.2251 7621.7388 7623.9927 7626.9976 7629.2515 7633.7603 7638.27 7642.7798 7645.0347"
+         y="1026.052"
          sodipodi:role="line"
          id="tspan17934">ISM - 245.0</tspan>
     </text>
     <text
-       y="605.38586"
-       x="19331.189"
-       transform="scale(0.89446213,1.1179903)"
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.96414089px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       y="667.65381"
+       x="11755.84"
+       transform="scale(0.89446214,1.1179903)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.86858559px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text17936">
       <tspan
-         x="19331.189 19336.109 19338.352 19342.834 19345.074 19352.049 19359.021"
-         y="605.38586"
+         x="11755.84 11759.061 11760.529 11763.463 11764.93 11769.496 11774.061"
+         y="667.65381"
          sodipodi:role="line"
          id="tspan17938">± 1 GHz</tspan>
     </text>
     <g
-       id="g22307">
+       id="g22307"
+       transform="matrix(0.65467355,0,0,0.65467355,-804.817,303.33728)">
       <g
          id="g1206"
          transform="matrix(1.2428487,0,0,-1.2428487,-2750.9701,2721.2769)">
@@ -46707,15 +46735,9 @@
            d="M 0,0 0,-185.003 2190.793,-186.499 2190.505,0 0,0 Z" />
       </g>
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2"
-     transform="translate(2304.2303,-336.52732)">
     <g
        id="g55303"
-       transform="matrix(0.50949822,0,0,0.50949822,-2368.1902,-135.68003)">
+       transform="matrix(0.33355499,0,0,0.33355499,-2355.2084,214.51116)">
       <text
          id="text962"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:162.5px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -46814,7 +46836,7 @@
     </g>
     <g
        id="g31353"
-       transform="translate(-2182.7018,0)">
+       transform="matrix(0.65467355,0,0,0.65467355,-2233.774,303.33728)">
       <g
          transform="matrix(1.2221775,0,0,1.2221775,-1317.0871,-1826.0003)"
          id="g55367">
@@ -47856,7 +47878,7 @@
     </g>
     <g
        id="g32799"
-       transform="matrix(1.1954959,0,0,1.1954959,-3427.0438,-29.018531)">
+       transform="matrix(0.7826595,0,0,0.7826595,-3048.4118,284.33962)">
       <g
          transform="matrix(0.9998547,0,0,1,21634.796,-35.808866)"
          id="g29977">
@@ -49175,7 +49197,7 @@
     </g>
     <g
        id="g31353-1"
-       transform="translate(5653.5127,0)">
+       transform="matrix(0.65467355,0,0,0.65467355,2896.3884,303.33728)">
       <g
          transform="matrix(1.2221775,0,0,1.2221775,-1317.0871,-1826.0003)"
          id="g55367-2">
@@ -50217,7 +50239,7 @@
     </g>
     <g
        id="g31353-1-0"
-       transform="translate(13489.726,0)">
+       transform="matrix(0.65467355,0,0,0.65467355,8026.5494,303.33728)">
       <g
          transform="matrix(1.2221775,0,0,1.2221775,-1317.0871,-1826.0003)"
          id="g55367-2-3">
@@ -51259,29 +51281,29 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-2092.9514"
-       y="815.46051"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.54673481px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2175.0166"
+       y="837.19775"
        id="text33038"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan33040"
-         x="-2092.9514"
-         y="815.46051"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Department of Commerce</tspan><tspan
+         x="-2175.0166"
+         y="837.19775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.18341923px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Department of Commerce</tspan><tspan
          sodipodi:role="line"
-         x="-2092.9514"
-         y="831.08551"
+         x="-2175.0166"
+         y="847.427"
          id="tspan33042"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">National Telecommunications and Information Administration</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.18341923px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">National Telecommunications and Information Administration</tspan><tspan
          sodipodi:role="line"
-         x="-2092.9514"
-         y="846.71051"
+         x="-2175.0166"
+         y="857.65631"
          id="tspan33044"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">January 2016</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.18341923px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">January 2016 data</tspan></text>
     <g
        id="g33195"
-       transform="translate(124.55517,0)">
+       transform="matrix(0.65467355,0,0,0.65467355,-723.2741,303.33728)">
       <text
          sodipodi:linespacing="125%"
          id="text33046"
@@ -51431,15 +51453,35 @@
       <text
          sodipodi:linespacing="125%"
          id="text33179"
-         y="823.86377"
-         x="19100.799"
+         y="814.48871"
+         x="19048.346"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan33189"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           y="823.86377"
-           x="19100.799"
-           sodipodi:role="line">© 2018 Dan White.  www.agnd.net</tspan></text>
+           y="814.48871"
+           x="19048.346"
+           sodipodi:role="line">© 2018 Dan White.  www.agnd.net</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="833.23871"
+           x="19048.346"
+           sodipodi:role="line"
+           id="tspan33234">https://github.com/etihwnad/spectrum-poster</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="19308.197"
+         y="823.86371"
+         id="text33228"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan33230"
+           x="19308.197"
+           y="823.86371" /><tspan
+           sodipodi:role="line"
+           x="19308.197"
+           y="836.36371"
+           id="tspan33232" /></text>
     </g>
   </g>
 </svg>
